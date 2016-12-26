@@ -1,0 +1,4 @@
+function test($name) //function test that takes variable name as parameter
+{
+  echo $name." ".rand(6,15); //This statement will print in the format-name random number.
+}
